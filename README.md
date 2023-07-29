@@ -62,6 +62,4 @@ Consumer goods company.
 **National Autonomous University of Mexico** <br>
 Completed 362 credit hours toward a B.S. in Actuary.
 
-[^1]: I'm borrowing the term from
-_[Fundamentals of Data Engineering. Plan and Build Robust Data Systems](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)_,
-by Joe Reis & Matt Housley.
+[^1]: I'm borrowing the term from _[Fundamentals of Data Engineering. Plan and Build Robust Data Systems](https://www.oreilly.com/library/view/fundamentals-of-data/9781098108298/)_, by Joe Reis & Matt Housley.
