@@ -15,16 +15,16 @@ _Implementing the Data Engineering Lifecycle[^1] with Python and AWS_ <br>
 **Data Engineer** at [Clip MX](https://www.clip.mx/) _(Apr 2022 - Present)_ <br>
 Mexican fintech that provides businesses with a full suite of payment solutions.
   - In a team effort, reduced computation related costs by ~65% through heavy refactoring of internal processes.
-  - Led the effort to automate key regulatory reports, saving ~5 man-hours a month.
+  - Led the effort to automate key regulatory reports, saving ~5 person-hours a month.
   - Implemented a table to showcase the relationship between movements of a ledger book using a FIFO approach.
-  - Extensive support to data analysts to help them automate key processes, saving ~25 man-hours a month.
+  - Extensive support to data analysts to help them automate key processes, saving ~25 person-hours a month.
   - Develop and monitor data pipelines to support the OLAP environment.
   - Refactored three steps of the CI/CD (GitHub Actions), achieving a reduction in execution time from ~5 min to ~40 sec each. 
   - Develop and improve internal Python tools to reduce boilerplate.
   - Main technologies used: **Python**, **Snowflake**, **AWS Databricks**, **GitHub**.
 
 **Data Analyst** at [Clip MX](https://www.clip.mx/) _(Aug 2021 - Apr 2022)_ <br>
-  - R-to-Python translation of key processes of the Growth team. Automation saved ~30 man-hours a month.
+  - R-to-Python translation of key processes of the Growth team. Automation saved ~30 person-hours a month.
   - Collaborated in a BI platform switch effort by taking ownership over 15 dashboards.
   - Occasionally helped the Data Engineering team with no critical coding tasks.
   - Main technologies used: **R**, **Python**, **Snowflake**, **Looker**, **Sisense**.
@@ -49,7 +49,7 @@ Firm focused on market measurement.
 
 **Deductions & Disputes Intern** at [Henkel México](https://www.henkel.mx/) _(Feb 2017 - Feb 2018)_ <br>
 Consumer goods company.
-  - Automation with VBA of BAU processes, saving ~50 man-hours a month.
+  - Automation with VBA of BAU processes, saving ~50 person-hours a month.
   - Owned the BAU processes of the area related to credit disputes.
   - Main technologies used: **VBA**, **Microsoft Excel**.
 
