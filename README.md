@@ -4,7 +4,7 @@ _Implementing the Data Engineering Lifecycle[^1] with Python and AWS_ <br>
 
 [GitHub](https://github.com/Quiroptero) |
  [Website](https://omiranda.dev) |
- [Contact: hola@omiranda.dev](mailto:hola@omiranda.dev) |
+ [contacto@omiranda.dev](mailto:contacto@omiranda.dev) |
  [LinkedIn](https://www.linkedin.com/in/omiranda-dev/) |
  📍Mérida, Yucatán - México 🇲🇽
 
