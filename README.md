@@ -10,7 +10,10 @@ _Implementing the Data Engineering Lifecycle[^1] with Python and AWS_ <br>
 
 ## 👨‍💻 Experience
 
-**Senior Data Engineer** at [Clip](https://www.clip.mx/) _(August 2023 - Present)_ <br>
+**Data Engineer** at [Oportun](https://oportun.com/) _(April 2024 - present)_ <br>
+US firm that offers solutions to borrow, save and invest.
+
+**Senior Data Engineer** at [Clip](https://www.clip.mx/) _(August 2023 - April 2024)_ <br>
 Mexican fintech that provides businesses with a full suite of payment solutions.
   - Led a project aimed at reducing computation costs, achieving a 40% reduction in average daily expenses by taking action on three main axes:
     - Reconfigure compute clusters to optimize the query load metric.
