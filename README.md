@@ -3,15 +3,18 @@
 _Implementing the Data Engineering Lifecycle[^1] with Python and AWS_ <br>
 
 [GitHub](https://github.com/Quiroptero) |
- [Website](https://omiranda.dev) |
  [contacto@omiranda.dev](mailto:contacto@omiranda.dev) |
  [LinkedIn](https://www.linkedin.com/in/omiranda-dev/) |
- 📍Mérida, Yucatán - México 🇲🇽
+ 📍Mérida, YUC - MX 🇲🇽
 
 ## 👨‍💻 Experience
 
 **Data Engineer** at [Oportun](https://oportun.com/) _(April 2024 - present)_ <br>
 US firm that offers solutions to borrow, save and invest.
+  - Developed foundational data pipelines to support internal BI tool infrastructure.
+  - Automated business dashboards, saving 1+ hour of manual work daily.
+  - Actively contributing to the tech stack migration to Databricks, with a focus on developing data pipelines.
+  - Main technologies used: **Python**, **AWS Databricks**, **GitHub**.
 
 **Senior Data Engineer** at [Clip](https://www.clip.mx/) _(August 2023 - April 2024)_ <br>
 Mexican fintech that provides businesses with a full suite of payment solutions.
